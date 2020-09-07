@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "218839307385",
+    "firebase_url": "https://userauthentication-b5581.firebaseio.com",
+    "project_id": "userauthentication-b5581",
+    "storage_bucket": "userauthentication-b5581.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218839307385:android:e17546a3ba50715ce2b0a8",
+        "android_client_info": {
+          "package_name": "com.examples.userauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218839307385-bia5d136d5j5e92lp73cnscbpi9p7nsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB64Y9REcC_Xm1Ud5KUiqeJF7uIKF3gHbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218839307385-bia5d136d5j5e92lp73cnscbpi9p7nsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
